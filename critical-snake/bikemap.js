@@ -1,6 +1,6 @@
 const defaultOptions = {
-  center: [52.5219, 13.4045],
-  zoom: 13,
+  center: [48.1549,11.4989],
+  zoom: 12,
 }
 
 function createBikeMap(L, options) {
